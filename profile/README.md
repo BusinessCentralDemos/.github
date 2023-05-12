@@ -27,4 +27,4 @@ You can also explore the latest version of the Al-Go for GitHub PTE preview temp
 #### Al-Go (PTE)
 
 - This is a preview version of the Al-go for GitHub PTE template, which includes support for Power Platform solutions.
-- To try it out, please refer to the scenario guides available [here](https://github.com/BusinessCentralDemos/AL-Go).
+- To try it out, please refer to the scenario guides available [here](https://github.com/BusinessCentralDemos/AL-Go-PTE).
